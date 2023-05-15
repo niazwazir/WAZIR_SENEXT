@@ -1,0 +1,8 @@
+1) Calculate the results on historical images
+2)We used LeakyReLU
+1) SENext: Squeeze-and-ExcitationNext for Single Image Super-Resolution  
+2) Our proposed network architetcure used squeeze-and-excitation block (SEB) to adaptively recalibrate channel-wise feature mappings
+3) Furthermore, short skip connections between each SEB are employed for enabling the feature reusability and stabilize training convergence smoothly.
+4) Extensive quantitative and qualitative experiments on a publicly available benchmark datasets, such as Set5, Set14, BSDS100, Urban100, Manga109 and historical images demonstrate the superiority of the proposed method over state-of-the-art methods in terms of PSNR/SSIM, Number of parameters, processing speed , Number of FLOPs and visually pleasing effect. 
+
+
