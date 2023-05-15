@@ -1,0 +1,596 @@
+21077_x3_GT.png
+-----------------------------------------------
+Aplus
+The PSNR value is 22.77.
+The SSIM value is 0.7777.
+
+Bicubic
+The PSNR value is 21.87.
+The SSIM value is 0.7212.
+
+21077_x3_DRCN
+The PSNR value is 23.68.
+The SSIM value is 0.8220.
+
+DRRN
+The PSNR value is 23.56.
+The SSIM value is 0.8283.
+
+FSRCNN
+The PSNR value is 19.41.
+The SSIM value is 0.6279.
+
+LapSRN
+The PSNR value is 23.50.
+The SSIM value is 0.8162.
+
+MSLapSRN
+The PSNR value is 23.45.
+The SSIM value is 0.8173.
+
+RFL
+The PSNR value is 22.80.
+The SSIM value is 0.7775.
+
+SCN
+The PSNR value is 23.08.
+The SSIM value is 0.7934.
+
+SelfExSR
+The PSNR value is 22.83.
+The SSIM value is 0.7864.
+
+SRCNN
+The PSNR value is 23.08.
+The SSIM value is 0.7928.
+
+VDSR
+The PSNR value is 23.42.
+The SSIM value is 0.8127.
+
+
+21077_x4_Aplus
+------------------------------------------------
+The PSNR value is 21.23.
+The SSIM value is 0.6747.
+
+21077_x4_bicubic
+The PSNR value is 20.52.
+The SSIM value is 0.6196.
+
+DRCN
+The PSNR value is 21.76.
+The SSIM value is 0.7149.
+
+DRRN
+The PSNR value is 21.38.
+The SSIM value is 0.7109.
+
+FSRCNN
+The PSNR value is 21.45.
+The SSIM value is 0.6932.
+
+LapSRN
+The PSNR value is 21.82.
+The SSIM value is 0.7236.
+
+MSLapSRN
+The PSNR value is 21.92.
+The SSIM value is 0.7313.
+
+RFL
+The PSNR value is 21.21.
+The SSIM value is 0.6780.
+
+SCN
+The PSNR value is 21.35.
+The SSIM value is 0.6923.
+
+SelfExSR
+The PSNR value is 21.19.
+The SSIM value is 0.6860.
+
+SRCNN
+The PSNR value is 21.29.
+The SSIM value is 0.6875.
+
+
+VDSR
+The PSNR value is 21.69.
+The SSIM value is 0.7140
+
+
+LIZARD  X3
+-----------------------------
+Aplus
+The PSNR value is 25.43.
+The SSIM value is 0.8644.
+
+Bicubic
+The PSNR value is 24.10.
+The SSIM value is 0.8185.
+
+DRCN
+The PSNR value is 25.89.
+The SSIM value is 0.8773.
+
+DRRN
+The PSNR value is 25.92.
+The SSIM value is 0.8783.
+
+FSRCNN
+The PSNR value is 21.51.
+The SSIM value is 0.7692.
+
+
+LapSRN
+The PSNR value is 25.88.
+The SSIM value is 0.8781.
+
+MSLapSRN
+The PSNR value is 25.95.
+The SSIM value is 0.8800.
+
+
+RFL
+The PSNR value is 25.42.
+The SSIM value is 0.8636
+
+SCN
+The PSNR value is 25.39.
+The SSIM value is 0.8609.
+
+SelfExSR
+The PSNR value is 25.37.
+The SSIM value is 0.8658.
+
+
+
+SRCNN
+The PSNR value is 25.61.
+The SSIM value is 0.8685.
+
+VDSR
+The PSNR value is 25.84.
+The SSIM value is 0.8763.
+
+LIZARD X4
+-----------------------------------
+Aplus
+The PSNR value is 23.73.
+The SSIM value is 0.7952.
+
+Bicubic
+The PSNR value is 22.50.
+The SSIM value is 0.7429.
+
+DRCN
+The PSNR value is 23.92.
+The SSIM value is 0.8056.
+
+DRRN
+The PSNR value is 24.12.
+The SSIM value is 0.8131.
+
+FSRCNN
+The PSNR value is 23.87.
+The SSIM value is 0.7994.
+
+LapSRN
+The PSNR value is 24.01.
+The SSIM value is 0.8087.
+
+MSLapSRN
+The PSNR value is 24.07.
+The SSIM value is 0.8121.
+
+RFL
+The PSNR value is 23.67.
+The SSIM value is 0.7930.
+
+SCN
+The PSNR value is 23.65.
+The SSIM value is 0.7913.
+
+SelfExSR
+The PSNR value is 23.78.
+The SSIM value is 0.8010.
+
+SRCNN
+The PSNR value is 23.78.
+The SSIM value is 0.7975.
+
+VDSR
+The PSNR value is 23.94.
+The SSIM value is 0.8065.
+
+
+ELECTRIC WIRES X3
+Aplus
+The PSNR value is 29.45.
+The SSIM value is 0.9460.
+
+Bicubic
+The PSNR value is 28.40.
+The SSIM value is 0.9266.
+
+
+DRCN
+The PSNR value is 30.63.
+The SSIM value is 0.9619.
+
+DRRN
+The PSNR value is 31.02.
+The SSIM value is 0.9653.
+
+FSRCNN
+The PSNR value is 26.33.
+The SSIM value is 0.8968.
+
+LapSRN
+The PSNR value is 29.97.
+The SSIM value is 0.9566.
+
+MSLapSRN
+The PSNR value is 30.29.
+The SSIM value is 0.9596.
+
+RFL
+The PSNR value is 29.18.
+The SSIM value is 0.9417.
+
+
+SCN
+The PSNR value is 29.34.
+The SSIM value is 0.9463.
+
+SelfExSR
+The PSNR value is 30.64.
+The SSIM value is 0.9603.
+
+SRCNN
+The PSNR value is 29.30.
+The SSIM value is 0.9433.
+
+VDSR
+The PSNR value is 30.31.
+The SSIM value is 0.9601.
+
+
+ELECTRIC WIRES X4
+Aplus
+The PSNR value is 28.14.
+The SSIM value is 0.9255.
+
+Bicubic
+The PSNR value is 27.42.
+The SSIM value is 0.9094.
+
+DRCN
+The PSNR value is 28.55.
+The SSIM value is 0.9385.
+
+
+DRRN
+The PSNR value is 29.01.
+The SSIM value is 0.9468.
+
+FSRCNN
+The PSNR value is 27.96.
+The SSIM value is 0.9227.
+
+LapSRN
+The PSNR value is 28.32.
+The SSIM value is 0.9371.
+
+MSLapSRN
+The PSNR value is 28.53.
+The SSIM value is 0.9409.
+
+RFL
+The PSNR value is 28.05.
+The SSIM value is 0.9230.
+
+SCN
+The PSNR value is 27.75.
+The SSIM value is 0.9220.
+
+SelfExSR
+The PSNR value is 28.73.
+The SSIM value is 0.9366.
+
+SRCNN
+The PSNR value is 28.00.
+The SSIM value is 0.9254.
+
+VDSR
+The PSNR value is 28.66.
+The SSIM value is 0.9419.
+
+CREATE X4
+Aplus
+The PSNR value is 20.34.
+The SSIM value is 0.7610.
+
+Bicubic
+The PSNR value is 19.53.
+The SSIM value is 0.7198.
+
+DRCN
+The PSNR value is 21.38.
+The SSIM value is 0.8003.
+
+FSRCNN
+The PSNR value is 20.80.
+The SSIM value is 0.7802.
+
+LapSRN
+The PSNR value is 21.50.
+The SSIM value is 0.8040.
+
+MSLapSRN
+The PSNR value is 21.49.
+The SSIM value is 0.8042.
+
+RFL
+The PSNR value is 20.16.
+The SSIM value is 0.7528.
+
+
+SCN
+The PSNR value is 20.52.
+The SSIM value is 0.7684
+
+SelfExSR
+The PSNR value is 20.72.
+The SSIM value is 0.7804.
+
+SRCNN
+
+The PSNR value is 20.61.
+The SSIM value is 0.7725.
+
+VDSR
+The PSNR value is 21.26.
+The SSIM value is 0.7959.
+
+CREATE X8
+Aplus
+The PSNR value is 18.21.
+The SSIM value is 0.6555.
+
+
+Bicubic
+The PSNR value is 18.09.
+The SSIM value is 0.6518.
+
+DRCN
+The PSNR value is 18.33.
+The SSIM value is 0.6617.
+
+DRRN
+The PSNR value is 18.36.
+The SSIM value is 0.6639.
+
+FSRCNN
+The PSNR value is 18.24.
+The SSIM value is 0.6574.
+
+LapSRN
+The PSNR value is 18.39.
+The SSIM value is 0.6642.
+
+MSLapSRN
+The PSNR value is 18.48.
+The SSIM value is 0.6678.
+
+RFL
+The PSNR value is 18.22.
+The SSIM value is 0.6564.
+
+SCN
+The PSNR value is 18.30.
+The SSIM value is 0.6611.
+
+SelfExSR
+The PSNR value is 18.19.
+The SSIM value is 0.6580.
+
+SRCNN
+The PSNR value is 18.29.
+The SSIM value is 0.6615.
+
+VDSR
+The PSNR value is 18.21.
+The SSIM value is 0.6562.
+
+
+MAD STONE X8
+APlus
+The PSNR value is 26.75.
+The SSIM value is 0.9504.
+
+Bicubic
+The PSNR value is 25.66.
+The SSIM value is 0.9459.
+
+DRCN
+The PSNR value is 27.29.
+The SSIM value is 0.9535.
+
+DRRN
+The PSNR value is 27.56.
+The SSIM value is 0.9540.
+
+FSRCNN
+The PSNR value is 26.74.
+The SSIM value is 0.9500.
+
+
+LapSRN
+The PSNR value is 27.60.
+The SSIM value is 0.9547.
+
+MSLapSRN
+The PSNR value is 28.19.
+The SSIM value is 0.9562.
+
+RFL
+The PSNR value is 26.69.
+The SSIM value is 0.9497.
+
+SCN
+The PSNR value is 27.06.
+The SSIM value is 0.9521.
+
+SelfExSR
+The PSNR value is 27.15.
+The SSIM value is 0.9562.
+
+SRCNN
+The PSNR value is 26.68.
+The SSIM value is 0.9512.
+
+
+VDSR
+The PSNR value is 26.83.
+The SSIM value is 0.9509.
+
+YameraCooking X4
+Aplus
+The PSNR value is 20.95.
+The SSIM value is 0.6898.
+
+Bicubic
+The PSNR value is 20.21.
+The SSIM value is 0.6460.
+
+DRCN
+The PSNR value is 21.40.
+The SSIM value is 0.7171.
+
+DRRN
+The PSNR value is 21.79.
+The SSIM value is 0.7350.
+
+FSRCNN
+The PSNR value is 21.15.
+The SSIM value is 0.7013.
+
+LapSRN
+The PSNR value is 21.56.
+The SSIM value is 0.7241.
+
+MSLapSRN
+The PSNR value is 21.90.
+The SSIM value is 0.7360.
+
+RFL
+The PSNR value is 20.80.
+The SSIM value is 0.6824.
+
+SCN
+
+The PSNR value is 21.06.
+The SSIM value is 0.6978.
+
+SelfExSR
+The PSNR value is 20.63.
+The SSIM value is 0.6832.
+
+
+SRCNN
+The PSNR value is 20.78.
+The SSIM value is 0.6863.
+
+VDSR
+The PSNR value is 21.48.
+The SSIM value is 0.7199.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
