@@ -1,0 +1,20 @@
+                                                                                                                           https://github.com/Nhat-Thanh/FSRCNN-TF
+
+TRAINING
+put training images in dataset/train
+put scale 2 HR (5 images) images in dataset/test
+put scale 2 HR (14 images) in dataset/validation
+
+python train.py  --steps=1000000 --scale=2 --batch_size=128 --save-best-only=1 --save-every=100 --ckpt-dir="checkpoint/x2" 
+
+
+TESTING
+python average_psnr_x2.py
+python demo.py
+
+avergae_psnr.py
+Create test Folder
+Create two folders data and labels
+Put LR image in data folder
+Put GT image in Labels folder
+Run python average_psnr.py
